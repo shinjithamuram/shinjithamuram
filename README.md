@@ -9,15 +9,16 @@
 
 - 👯 I’m looking to collaborate on **Web development, cloud-based applications, and machine learning projects**
 
-- 💬 Ask me about **Have you contributed to open-source before? Would you like to start?**
+- 🤝 I’m looking for help with **Microservices**
 
 - 📫 How to reach me **shinjithamuram@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ryPVsO39P1pkKsQdEoRn6VigeqXhgt_o/view?usp=sharing](https://drive.google.com/file/d/1ryPVsO39P1pkKsQdEoRn6VigeqXhgt_o/view?usp=sharing)
 
+- ⚡ Fun fact **I debug my code better at 2 AM than at 2 PM!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/shinjith_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shinjith_reddy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
